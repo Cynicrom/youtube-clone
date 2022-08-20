@@ -1,6 +1,6 @@
 # Project: YouTube Clone
 
-This project is a clone of YouTube's main page made using HTML and CSS.
+This project is a clone of youtube.com made using HTML and CSS.
 
 ## How to view the project
 
