@@ -1,6 +1,6 @@
 # Project: YouTube Clone
 
-This project is a clone of [youtube.com](https://youtube.com) made using HTML and CSS.
+This project is a clone of [youtube.com](https://www.youtube.com) made using HTML and CSS.
 
 ## How to view the project
 
